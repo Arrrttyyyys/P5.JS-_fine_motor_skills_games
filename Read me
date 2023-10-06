@@ -1,0 +1,28 @@
+Welcome to the p5.js Space Game! This interactive game allows you to play a simple space-themed shooting game while learning some basic p5.js concepts. In this game, you'll control a spaceship and try to shoot down enemy UFOs. Here's how to get started:
+
+Installation
+Download or clone the entire repository to your local machine.
+Open the index.html file in a web browser that supports p5.js.
+How to Play
+When you launch the game, you'll see the main menu with two options: "Start" and "Quit."
+Click the "Start" button to begin the game or "Quit" to exit.
+After starting, you'll be taken to the exercise selection screen, where you can choose between different exercises.
+Select an exercise by clicking on the respective button.
+Follow the instructions for each exercise to play and improve your skills.
+Exercise 1 - UFO Shooting
+In Exercise 1, your goal is to develop timing skills and hand-eye coordination. A UFO will bounce back and forth at the top of the screen, and when you press the SPACE key, a projectile will shoot. The objective is to hit the enemy UFO at the bottom of the screen as many times as possible. If you miss three times, you lose.
+
+Use the SPACE key to shoot projectiles.
+Watch the UFO's movement and time your shots.
+Keep an eye on your lives and score at the bottom of the screen.
+If you lose, you can choose to try again or quit.
+Exercise 2 and Exercise 3
+Exercise 2 and Exercise 3 are additional exercises you can explore. Each exercise has its own unique challenges and gameplay mechanics.
+
+Navigation
+Use the "< Back" button to return to the previous screen at any time.
+You can exit the game at any time by clicking the "Quit" button in the main menu.
+Credits
+This game was created using p5.js, an open-source JavaScript library for creative coding and interactive graphics.
+
+Have fun playing the p5.js Space Game! If you encounter any issues or have suggestions for improvements, feel free to contribute to the project or contact the developer.
